@@ -3,6 +3,7 @@
 ##### Presentation: Click [here]()
 ##### Authors: Justin Sohn
 
+![Header Image](images/header.png)
 <img src="./images/header.png" alt="image" style="width:0;"/>
 
 ## Overview
