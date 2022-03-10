@@ -3,7 +3,7 @@
 ##### Presentation: Click [here]()
 ##### Authors: Justin Sohn
 
-<img src=“images/header.png” alt=“image” style=“width:50;“/>
+<img src=“images/header.png” style=“width:50;“/>
 
 ## Overview
 Emotions are feelings that are very essential in people's life. It enables humans to comprehend themselves and communicate with one another, among other things. Emotions, above all, are mostly responsible for our ideas and actions. Knowing the Emotions of the customers/citizens in a company/service provider is an important factor in the success of this company as this measures the satisfaction of the customer/citizen for the services provided.
