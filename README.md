@@ -3,7 +3,7 @@
 ##### Presentation: Click [here]()
 ##### Authors: Justin Sohn
 
-![Header Image](images/header.png | =250x250)
+<img src=“./images/header.png” alt=“image” style=“width:50;“/>
 
 ## Overview
 Emotions are feelings that are very essential in people's life. It enables humans to comprehend themselves and communicate with one another, among other things. Emotions, above all, are mostly responsible for our ideas and actions. Knowing the Emotions of the customers/citizens in a company/service provider is an important factor in the success of this company as this measures the satisfaction of the customer/citizen for the services provided.
@@ -13,6 +13,8 @@ The goal is to know what feelings/emotions people are having to know their satis
 
 ## Data 
 The data is from FER2013 dataset, it consists of 48x48 pixel grayscale images of faces. The faces have been automatically registered so that the face is more or less centered and occupies about the same amount of space in each image.
+
+![Data Image](images/data.png)
 
 It is divided into train and test sets with seven common basic emotions (Happy, Neutral, Disgust, Surprise, Fear, Sad, Angry) proposed by Erkman (1992) one of the psychologist researchers. 
 ([Original Source](https://www.kaggle.com/msambare/fer2013))
