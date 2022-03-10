@@ -1,6 +1,4 @@
 # Facial-Emotion-Recognition
-##### Github Repository: Click [here]()
-##### Presentation: Click [here]()
 ##### Authors: Justin Sohn
 
 ![Header Image](images/header.png)
@@ -79,11 +77,11 @@ Please contact:
 
 **Repository Structure:**
 ```
-├── chest_xray                             <- Data sourced externally and generated from code 
+├── Flask app                              <- Files needed to run Flask app
 ├── images                                 <- Images sourced externally and generated from code 
-├── modeling-notebooks                     <- Notebooks on modeling 
-├── .gitignore                             <- gitignore 
-├── Final_Notebook.ipynb                   <- Narrative documentation of analysis in Jupyter notebook
+├── .DS_Store                              <- .DS_Store
+├── Presentation.pdf                       <- PDF version of project presentation
 ├── README.md                              <- The top-level README for reviewers of this project
-├── modelplotting.py                       <- Functions used for model plotting
-└── tf_board_plotting.ipynb                <- Train-Validation plots for the presentation
+├── final_jupyternotebook.ipynb            <- Narrative documentation of analysis in Jupyter notebook
+├── model6.json                            <- Best Model 
+└── model_weights6.h5                      <- Models stored to h5
